@@ -9,4 +9,10 @@
     <ProjectReference Include="..\addMultiplyDLL\addMultiplyDLL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="addMultiplyDLL">
+      <HintPath>..\addMultiplyDLL\obj\Debug\netcoreapp3.1\addMultiplyDLL.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
