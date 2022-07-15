@@ -8,6 +8,7 @@ namespace JenkinApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Welcome to Jenkins");
+            Console.WriteLine("adding a new line");
             Console.ReadLine();
         }
     }
